@@ -15,14 +15,14 @@ Este laboratorio tiene como objetivo que los estudiantes fortalezcan sus conocim
    - Dentro de su fork, cree una carpeta llamada **`lab01/`**.  
    - Cada ejercicio debe resolverse en un archivo **independiente** con el siguiente formato:  
      ```
-     lab01/ejercicio01.hs
-     lab01/ejercicio02.hs
+     lab01/ejercicio01.ipynb
+     lab01/ejercicio02.ipynb
      ...
      ```  
 
 3. **Resolución de ejercicios**  
    - Desarrolle los programas en el entorno de programacion indicado en clase.  
-   - Una vez finalizados, copie el código a los archivos `.hs` correspondientes en su repositorio.  
+   - Una vez finalizados, cargue el código de los archivos `.ipynb` correspondientes en su repositorio.  
    - Cada archivo debe contener:
      - La implementación de su solución.  
 
