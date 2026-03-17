@@ -1,0 +1,18 @@
+Retrospectiva
+¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+¿Cuál es el estado actual del laboratorio? ¿Por qué?
+¿Cuál consideran fue el mayor logro? ¿Por qué?
+¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+
+--- Respuestas ---
+1) En mi caso a este laboratorio le dedique aproximadamente unas 4 a 5 horas, aproximadamente una hora por punto.
+2) El estado actual del laboratorio es finalizado, por que se cumplieron los lineamientos y lo esperado por cada punto. 
+3) En mi caso, el mayor logro entender el funcionamiento detras de este tipo de programacion, y aprenderlo a manejar.
+4) El mayor problema tecnico en mi caso fue el editor de Haskell ya que se cerraba muy a menudo
+5) En mi caso, se tuvieron en cuenta los problemas de cada uno y nos ayudamos para entenderlo.
+
+6) Referencias
+IHaskell Contributors. (2026). IHaskell: A Haskell kernel for the Jupyter project [Software de computación]. 
+GitHub. https://github.com/IHaskell/IHaskell
